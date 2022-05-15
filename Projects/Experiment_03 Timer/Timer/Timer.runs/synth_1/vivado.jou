@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sun May 27 22:24:41 2018
+# Process ID: 1828
+# Current directory: D:/Experiment_03 Timer/Timer/Timer.runs/synth_1
+# Command line: vivado.exe -log Timer.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Timer.tcl
+# Log file: D:/Experiment_03 Timer/Timer/Timer.runs/synth_1/Timer.vds
+# Journal file: D:/Experiment_03 Timer/Timer/Timer.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Timer.tcl -notrace

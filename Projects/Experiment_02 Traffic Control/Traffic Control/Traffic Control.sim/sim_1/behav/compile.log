@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Experiment_02 Traffic Control/Traffic Control/Traffic Control.srcs/sources_1/new/Traffic_Control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Traffic_Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Experiment_02 Traffic Control/Traffic Control/Traffic Control.srcs/sim_1/new/sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Experiment_02 Traffic Control/Traffic Control/Traffic Control.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
